@@ -14,9 +14,11 @@ Managers can utilize predictive modeling to forecast trends, analyze customer be
 
 ##### 1. Software Resources
 
-- [Anaconda Distribution for Python](#https://www.anaconda.com/download)
+- [Anaconda Distribution for Python](https://www.anaconda.com/download)
 
-- [Sublime Text Editor](#https://download.sublimetext.com/Sublime%20Text%20Build%203211%20x64%20Setup.exe)
+- [Sublime Text Editor](https://download.sublimetext.com/Sublime%20Text%20Build%203211%20x64%20Setup.exe)
+
+- 
 
 - GitHub CLI
 
