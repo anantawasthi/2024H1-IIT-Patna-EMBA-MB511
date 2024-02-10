@@ -10,13 +10,16 @@ Managers can utilize predictive modeling to forecast trends, analyze customer be
 
 ---
 
-##### Resources
+#### Resources
 
-| Sr  | Resource Name                    | Link                                                                             | Description                                                  |
-| --- | -------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| 1   | Anaconda Distribution for Python | https://repo.anaconda.com/archive/Anaconda3-2023.09-0-Windows-x86_64.exe         | The distribution will be used as default compute environment |
-| 2   | Sublime Text                     | https://download.sublimetext.com/Sublime%20Text%20Build%203211%20x64%20Setup.exe | The application is a rich text editor for many environment.  |
-| 3   | Git for Windows                  |                                                                                  |                                                              |
-| 4   | GitHub CLI                       |                                                                                  |                                                              |
+##### 1. Software Resources
+
+- [Anaconda Distribution for Python]()
+
+- [Sublime Text Editor](#https://download.sublimetext.com/Sublime%20Text%20Build%203211%20x64%20Setup.exe)
+
+- GitHub CLI
+
+- Git for Windows
 
 
