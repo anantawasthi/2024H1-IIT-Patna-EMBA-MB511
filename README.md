@@ -10,6 +10,24 @@ Managers can utilize predictive modeling to forecast trends, analyze customer be
 
 ---
 
+#### Area Covered
+
+- Introduction to Data Science
+
+- Information Technology: An Overview
+
+- Applications of Data Science in various fields
+
+- MIS and Control Systems
+
+- Data Collection and Data Pre-Processing 
+
+- Building Information Systems
+
+- Support Systems for Management Decisions
+
+---
+
 #### Resources
 
 ##### Online Resources
@@ -32,7 +50,24 @@ Managers can utilize predictive modeling to forecast trends, analyze customer be
 
 ---
 
-#### Instructor
+#### Litreture
+
+- Jojo Moolayil, “Smarter Decisions: The Intersection of IoT and Data Science”, PACKT, 2016.
+
+- Cathy O’Neil and Rachel Schutt , “Doing Data Science”, O'Reilly, 2015.
+  David Dietrich, Barry Heller, Beibei Yang, “Data Science and Big data Analytics”, EMC 2013
+
+- Raj, Pethuru, “Handbook of Research on Cloud Infrastructures for Big Data Analytics”, IGI Global
+
+- Management Information System, W.S Jawadekar, Tata Mc Graw Hill Publication. 
+
+- Management Information System, David Kroenke, Tata Mc Graw Hill Publication. 
+
+- MIS: Management Perspective, D.P. Goyal, Macmillan Business Books. 
+
+---
+
+#### **Instructor**
 
 Anant Prakash Awasthi is a data science researcher, with more than 12+ years of experience in solving complex problems using cutting-edge data engineering and artificial intelligence-based technologies. Actively participating in academic activities like guest lectures, faculty development programs and panel discussions at different occasions and platforms.   
 
@@ -44,26 +79,4 @@ Anant Prakash Awasthi is a data science researcher, with more than 12+ years of 
 
 - [ORC ID](https://orcid.org/0000-0001-7793-8521)
 
-
-
 **Areas of Interest:** Explainable AI, Responsible use of AI, AI Fairness, Machine Learning, Cloud Technologies, Applied Statistics, Biostatistics & Epidemiology, Research Methodology, R, Python, SAS Programming, SPSS, Project Management and Solution Architecture
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
