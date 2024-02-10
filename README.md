@@ -34,10 +34,19 @@ Managers can utilize predictive modeling to forecast trends, analyze customer be
 
 ##### Instructor
 
-| <img src="file:///C:/Users/EMBA-IITPatna/Desktop/MB-551/IIT-Patna-EMBA-MB551/Images/20211117_113740.jpg" title="" alt="" width="88"> | Anant is an experienced data science researcher, with more than 12+ years of experience in solving complex problems using cutting-edge data engineering and artificial intelligence-based technologies. Actively participating in academic activities like guest lectures, faculty development programs and panel discussions at different occasions and platforms.   
-<br/>
-<br/>Areas of Interest: Explainable AI, Responsible use of AI, AI Fairness, Machine Learning, Cloud Technologies, Applied Statistics, Biostatistics & Epidemiology, Research Methodology, R, Python, SAS Programming, SPSS, Project Management and Solution Architecture |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+Anant Prakash Awasthi is a data science researcher, with more than 12+ years of experience in solving complex problems using cutting-edge data engineering and artificial intelligence-based technologies. Actively participating in academic activities like guest lectures, faculty development programs and panel discussions at different occasions and platforms.   
+
+**Public Profiles:**
+
+- [LinkedIn](https://www.linkedin.com/in/anantawasthi/)
+
+- [Vidwan](https://vidwan.inflibnet.ac.in/profile/373088)
+
+- [ORC ID](https://orcid.org/0000-0001-7793-8521)
+
+
+
+**Areas of Interest:** Explainable AI, Responsible use of AI, AI Fairness, Machine Learning, Cloud Technologies, Applied Statistics, Biostatistics & Epidemiology, Research Methodology, R, Python, SAS Programming, SPSS, Project Management and Solution Architecture
 
   
 
