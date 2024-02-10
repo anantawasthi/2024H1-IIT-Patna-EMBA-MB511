@@ -32,7 +32,7 @@ Managers can utilize predictive modeling to forecast trends, analyze customer be
 
 ---
 
-#### ####Instructor
+#### Instructor
 
 Anant Prakash Awasthi is a data science researcher, with more than 12+ years of experience in solving complex problems using cutting-edge data engineering and artificial intelligence-based technologies. Actively participating in academic activities like guest lectures, faculty development programs and panel discussions at different occasions and platforms.   
 
