@@ -1,6 +1,6 @@
-This directory will host the content and session specific assets like discussed presentations, resoruces etc.
+This directory will host the content and session specific assets like discussed presentations, resources etc.
 
-In case you identify bug, error or discrepancy feel free to raise an issue.
+In case you identify a bug, error or discrepancy feel free to raise an issue.
 
 ---
 
