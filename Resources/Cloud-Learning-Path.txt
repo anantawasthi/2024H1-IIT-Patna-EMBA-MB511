@@ -1,0 +1,13 @@
+Fundamentals  >>  >> 
+
+AI Engineer
+AZ900 >> DP900 >> AI900 >> AI100 >> AI101
+
+Data Analyst
+AZ900 >> DP900 >> AI900 >> PL300 >> DA100 >> 70-778 >> 70-779
+
+Data Engineer
+AZ900 >> DP900 >> AI900 >> DP201 >> DP203 >> DP420 
+
+Data Scientist  
+AZ900 >> DP900 >> AI900 >> DP100
