@@ -2,11 +2,9 @@
 
 ---
 
-[Reference Slides](Sessions\Session-Reference-pdf) | [Datasets](Datasets) | [Codes](Py-Codes) | [Resources](Resources) 
+[Reference Slides](Sessions\Session-Reference-pdf) | [Datasets](Datasets) | [Codes](Py-Codes) | [Resources](Resources) | [Certifications](Certifications)
 
 ---
-
-
 
 #### About the Program:
 
