@@ -2,6 +2,12 @@
 
 ---
 
+[Reference Slides](Sessions\Session-Reference-pdf) | [Datasets](Datasets) | [Codes](Py-Codes) | [Resources](Resources) | [Academic Calendar](Schedule\Academic calendar PG Spring 2024.pdf) 
+
+---
+
+
+
 #### About the Program:
 
 Data Science plays a pivotal role in informing and enhancing managerial decisions across various industries. By leveraging advanced analytics, machine learning, and statistical techniques, it empowers managers to derive valuable insights from vast and complex datasets. These insights enable informed decision-making, optimizing operational efficiency, and identifying strategic opportunities. 
@@ -10,7 +16,7 @@ Managers can utilize predictive modeling to forecast trends, analyze customer be
 
 ---
 
-#### Area Covered
+#### Areas Covered
 
 - Introduction to Data Science
 
