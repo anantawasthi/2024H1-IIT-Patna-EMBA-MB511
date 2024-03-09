@@ -2,7 +2,7 @@
 
 ---
 
-[Reference Slides](Sessions\Session-Reference-pdf) | [Datasets](Datasets) | [Codes](Py-Codes) | [Resources](Resources) | [Academic Calendar](Schedule\Academic calendar PG Spring 2024.pdf) 
+[Reference Slides](Sessions\Session-Reference-pdf) | [Datasets](Datasets) | [Codes](Py-Codes) | [Resources](Resources) | [Academic Calendar](Schedule/Academic calendar PG Spring 2024.pdf) 
 
 ---
 
